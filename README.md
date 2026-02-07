@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
