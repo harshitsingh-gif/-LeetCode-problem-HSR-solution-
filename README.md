@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0263-ugly-number) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [2235-add-two-integers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/3099-harshad-number) |
 ## Hash Table
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 <!---LeetCode Topics End-->
