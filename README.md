@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0066-plus-one) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0263-ugly-number) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1137-n-th-tribonacci-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1137-n-th-tribonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/3099-harshad-number) |
 ## Hash Table
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
