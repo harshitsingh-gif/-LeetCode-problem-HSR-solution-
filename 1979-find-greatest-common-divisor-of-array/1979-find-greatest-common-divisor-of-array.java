@@ -1,28 +1,27 @@
 class Solution {
     public int findGCD(int[] nums) {
-        
-        int min = nums[0];
-        int max = nums[0];
-     
-        for(int num : nums) {
-            if(num < min) {
+        int min = Integer.MAX_VALUE, max= Integer.MIN_VALUE;
+        for(int num: nums){
+            if(min> num){
                 min = num;
             }
-            if(num > max) {
-                max = num;
+            if(max<num){
+                max= num;
             }
         }
-        
-        return gcd(min, max);
+        return gcd(min,max);
     }
-    
- 
-    private int gcd(int a, int b) {
-        while(b != 0) {
-            int temp = b;
-            b = a % b;
-            a = temp;
+
+            public int gcd(int a, int b){       //by Euclid Algorithm to find greatest common divisor of two numbers
+        if(a>b){
+            return gcd(b,a);
         }
-        return a;
+        if(a==0){
+            return b;
+        }
+        else{
+            return gcd(b%a,a);
+        }
     }
+
 }
