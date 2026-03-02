@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -100,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0036-valid-sudoku) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Sorting
 |  |
 | ------- |
