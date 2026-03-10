@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1137-n-th-tribonacci-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1980-find-unique-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
