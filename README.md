@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0709-to-lower-case](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0709-to-lower-case) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
