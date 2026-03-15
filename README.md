@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1980-find-unique-binary-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0263-ugly-number) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
