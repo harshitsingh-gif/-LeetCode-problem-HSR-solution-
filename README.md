@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0070-climbing-stairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0190-reverse-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
