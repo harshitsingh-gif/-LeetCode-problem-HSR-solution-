@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0067-add-binary) |
 | [0709-to-lower-case](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0709-to-lower-case) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0190-reverse-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
