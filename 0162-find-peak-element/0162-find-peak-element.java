@@ -6,7 +6,7 @@ class Solution {
         while (left < right) {
             int mid = left + (right - left) / 2;
             
-            if (nums[mid] > nums[mid + 1]) {
+            if  (nums[mid] > nums[mid + 1]) {
                 right = mid;  // peak is in left part
             } else {
                 left = mid + 1;  // peak is in right part
@@ -14,5 +14,4 @@ class Solution {
         }
         
         return left; // or right (both are same)
-    }
-}
+    }}
