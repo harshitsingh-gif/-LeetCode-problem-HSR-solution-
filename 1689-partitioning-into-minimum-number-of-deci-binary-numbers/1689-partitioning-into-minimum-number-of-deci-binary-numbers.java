@@ -7,7 +7,7 @@ class Solution {
             maxDigit = Math.max(maxDigit, digit);
             
             // Early exit optimization
-            if (maxDigit == 9) {
+             if (maxDigit == 9) {
                 return 9;
             }
         }
