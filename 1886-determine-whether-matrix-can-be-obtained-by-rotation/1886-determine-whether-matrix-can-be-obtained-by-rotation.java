@@ -1,6 +1,6 @@
 class Solution {
     public boolean findRotation(int[][] mat, int[][] target) {
-        int n= mat.length;
+        int n = mat.length; 
         for(int c=0 ; c<4;c++){
             boolean equal =true;
             for(int i =0 ; i<n;i++){
@@ -32,7 +32,7 @@ class Solution {
         }
        }
        //reverse each row
-       for(int i=0;i<n;i++){
+       for(int i=0;i<n;i++) {
         int left=0,right=n-1;
         while(left<right){
             int temp = mat[i][left];
@@ -41,7 +41,7 @@ class Solution {
             left++;
             right--;
         }
-       }
+        }
     }
 
     
