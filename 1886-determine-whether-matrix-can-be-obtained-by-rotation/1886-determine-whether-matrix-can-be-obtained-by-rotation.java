@@ -10,7 +10,7 @@ class Solution {
                         break;
                     }
                 }
-                if(!equal){
+                 if(!equal){
                     break;
                 }
                 }
