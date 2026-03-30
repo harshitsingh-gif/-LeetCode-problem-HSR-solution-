@@ -8,7 +8,7 @@ class Solution {
             
             if  (nums[mid] > nums[mid + 1]) {
                   right = mid;  // peak is in left part
-            } else {
+            }  else {
                 left = mid + 1;  // peak is in right part
             }
         }
