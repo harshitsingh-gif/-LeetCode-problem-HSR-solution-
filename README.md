@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0162-find-peak-element) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Number Theory
 |  |
 | ------- |
