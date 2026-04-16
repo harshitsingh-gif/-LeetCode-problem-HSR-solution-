@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
 | [1980-find-unique-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1980-find-unique-binary-string) |
 ## String
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
