@@ -10,7 +10,7 @@ public class Solution {
 
         // Step 2: Count last word length
         while (i >= 0 && s.charAt(i) != ' ') {
-            length++;
+             length++;
             i--;
         }
 
