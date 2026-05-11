@@ -5,7 +5,7 @@ class Solution {
         long[][][] dp = new long[zero + 1][one + 1][2];
 
         for (int i = 1; i <= Math.min(zero, limit); i++) {
-            dp[i][0][0] = 1;
+          dp[i][0][0] = 1;
         }
 
         for (int j = 1; j <= Math.min(one, limit); j++) {
