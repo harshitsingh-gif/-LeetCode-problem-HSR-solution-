@@ -5,7 +5,7 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             char c = nums[i].charAt(i);
-            if (c == '0') {
+              if (c == '0') {
                 result.append('1');
             } else {
                 result.append('0');
