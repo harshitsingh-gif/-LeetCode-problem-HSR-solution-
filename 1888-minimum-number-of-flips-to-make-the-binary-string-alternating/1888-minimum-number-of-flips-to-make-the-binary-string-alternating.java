@@ -7,7 +7,7 @@ class Solution {
         StringBuilder alt2 = new StringBuilder();
 
         for (int i = 0; i < 2 * n; i++) {
-            if (i % 2 == 0) {
+             if (i % 2 == 0) {
                 alt1.append('0');
                 alt2.append('1');
             } else {
