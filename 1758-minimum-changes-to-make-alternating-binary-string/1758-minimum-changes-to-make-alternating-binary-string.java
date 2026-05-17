@@ -5,7 +5,7 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             char expected0 = (i % 2 == 0) ? '0' : '1';
-            char expected1 = (i % 2 == 0) ? '1' : '0';
+             char expected1 = (i % 2 == 0) ? '1' : '0';
 
             if (s.charAt(i) != expected0) {
                 startWith0++;
