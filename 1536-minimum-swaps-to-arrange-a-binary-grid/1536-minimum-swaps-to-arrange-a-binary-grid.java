@@ -8,7 +8,7 @@ class Solution {
             int count = 0;
             for (int j = n - 1; j >= 0; j--) {
                 if (grid[i][j] == 0) count++;
-                else break;
+                 else break;
             }
             trailingZeros[i] = count;
         }
