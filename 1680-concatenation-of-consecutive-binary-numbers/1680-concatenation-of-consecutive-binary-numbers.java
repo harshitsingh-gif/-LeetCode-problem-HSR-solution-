@@ -6,7 +6,7 @@ class Solution {
         
         for (int i = 1; i <= n; i++) {
             // If i is power of 2, increase bit length
-            if ((i & (i - 1)) == 0) {
+             if ((i & (i - 1)) == 0) {
                 bitLength++;
             }
             
