@@ -9,7 +9,7 @@ class Solution {
             
             if (bit + carry == 1) {
                 // odd number → add 1 then divide by 2
-                steps += 2;
+                 steps += 2;
                 carry = 1;
             } else {
                 // even number → divide by 2
