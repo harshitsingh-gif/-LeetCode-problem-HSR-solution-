@@ -9,7 +9,7 @@ class Solution {
             
             if (zeros == k) return 5;
             else if (zeros < k) left = mid + 1;
-            else right = mid - 1;
+             else right = mid - 1;
         }
         
         return 0;
