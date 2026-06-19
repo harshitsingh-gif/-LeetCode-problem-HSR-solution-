@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
@@ -192,4 +194,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
