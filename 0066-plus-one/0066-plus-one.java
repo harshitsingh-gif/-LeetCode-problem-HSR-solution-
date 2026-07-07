@@ -5,7 +5,7 @@ class Solution {
         
             if (digits[i] < 9) {
                  digits[i]++;
-                return digits;
+            return digits;
             }
             
           
