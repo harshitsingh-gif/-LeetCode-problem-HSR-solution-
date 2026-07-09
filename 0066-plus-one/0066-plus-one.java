@@ -9,7 +9,7 @@ class Solution {
             }
             
           
-             digits[i] = 0;
+              digits[i] = 0;
         }
         
         
