@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1137-n-th-tribonacci-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1137-n-th-tribonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [1980-find-unique-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Number Theory
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
@@ -172,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
