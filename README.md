@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
