@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
