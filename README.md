@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0283-move-zeroes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [1980-find-unique-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## String Matching
 |  |
