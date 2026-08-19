@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0283-move-zeroes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## String Matching
