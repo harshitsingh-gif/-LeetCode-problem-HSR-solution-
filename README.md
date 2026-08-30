@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0088-merge-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
