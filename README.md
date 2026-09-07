@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0088-merge-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0059-spiral-matrix-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Sorting
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
