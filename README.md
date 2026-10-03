@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0283-move-zeroes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/harshitsingh-gif/-LeetCode-problem-HSR-solution-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
